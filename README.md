@@ -26,3 +26,15 @@ and the change didn't apply/commit
 **YOU should push the correspond branch name to github
 so that you can push to the right branch**
 - Fetch
+fetch remote repository
+`git fetch origin`
+- Merge
+merge to current repository
+`git merge origin/<branch name>`
+- Pull
+Fetch and merge
+`git pull origin <branch name>:<branch name>`
+
+## Reference
+1. [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+2. [Git指令](https://www.yiibai.com/git)
