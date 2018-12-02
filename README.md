@@ -6,6 +6,8 @@
 `git init`
 **if you want to connect to a repository on github**
 `git remote add origin git＠github.com:your_repositry.git`
+`origin` is the default name of your remote connection
+
 ### Add something in your repository
 `git add <filename> or *(all file in the derictory)`
 this is add new file or add file which you have changed the content
@@ -18,3 +20,9 @@ and the change didn't apply/commit
 
 ## Some other git command
 - Add a branch
+`git checkout -u <branch name>`
+-Switch to a branch
+`git checkout <branch name>`
+**YOU should push the correspond branch name to github
+so that you can push to the right branch**
+- Fetch
