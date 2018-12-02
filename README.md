@@ -1,4 +1,5 @@
 # git_learning
+**Recommend to Use [Atom](https://atom.io/) eiditor , it has a good git&github plugin and well supoort markdown and program languages**  
 **Before do this you need generate you 'ssh key' and add to your github account**
 > [Github help](https://help.github.com/articles/connecting-to-github-with-ssh/)
 # Using Git in a Terminal
