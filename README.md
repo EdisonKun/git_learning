@@ -1,7 +1,14 @@
 # git_learning
 **Recommend to Use [Atom](https://atom.io/) eiditor , it has a good git&github plugin and well supoort markdown and program languages**
+
 **Before do this you need generate you 'ssh key' and add to your github account**
-> [Github help](https://help.github.com/articles/connecting-to-github-with-ssh/)
+>[Github help](https://help.github.com/articles/connecting-to-github-with-ssh/)
+
+**For something about markdown writing**
+> [Shunyao Wang's Markdown notes](https://github.com/ShunyaoWang/general_notes/tree/master/Markdowns)
+
+
+> **If you have some notes SHARE IT!**
 # Using Git in a Terminal
 ## 1. Build a Git repository(Locally)
 `cd path to you git repository`
@@ -37,7 +44,7 @@ merge to current repository
 - Pull
 Fetch and merge
 `git pull origin <branch name>:<branch name>`
-## different member cooperated on a repository  
+## different member cooperated on a repository
 
 ![branchs cooperation](pic/branchs.png)
 
