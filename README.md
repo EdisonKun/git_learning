@@ -1,4 +1,7 @@
 # git_learning
+**Before do this you need generate you 'ssh key' and add to your github account**
+> [Github help](https://help.github.com/articles/connecting-to-github-with-ssh/)
+> 
 # Using Git in a Terminal
 ## 1. Build a Git repository(Locally)
 `cd path to you git repository`
