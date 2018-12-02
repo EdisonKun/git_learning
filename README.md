@@ -1,5 +1,5 @@
 # git_learning
-**Recommend to Use [Atom](https://atom.io/) eiditor , it has a good git&github plugin and well supoort markdown and program languages**  
+**Recommend to Use [Atom](https://atom.io/) eiditor , it has a good git&github plugin and well supoort markdown and program languages**
 **Before do this you need generate you 'ssh key' and add to your github account**
 > [Github help](https://help.github.com/articles/connecting-to-github-with-ssh/)
 # Using Git in a Terminal
@@ -37,6 +37,7 @@ merge to current repository
 - Pull
 Fetch and merge
 `git pull origin <branch name>:<branch name>`
+![branchs cooperation](pic/branchs.png)
 
 ## Reference
 1. [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
