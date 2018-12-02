@@ -37,6 +37,8 @@ merge to current repository
 - Pull
 Fetch and merge
 `git pull origin <branch name>:<branch name>`
+## different member cooperated on a repository  
+
 ![branchs cooperation](pic/branchs.png)
 
 ## Reference
