@@ -6,8 +6,11 @@
 
 **Before do this you need generate you 'ssh key' and add to your github account**
 >[Github help](https://help.github.com/articles/connecting-to-github-with-ssh/)
+
 > After set the SSH Key, You can clone this repository
-`git clone git@github.com:HITSZ-LeggedRobotics/git_learning.git`
+
+`git clone git@github.com:HITSZ-LeggedRobotics/git_learning.git`  
+
 **For something about markdown writing**
 > [Shunyao Wang's Markdown notes](https://github.com/ShunyaoWang/general_notes/tree/master/Markdowns)
 
