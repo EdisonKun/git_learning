@@ -1,4 +1,7 @@
 # git_learning
+## Something you should **KNOW FIRST**
+**This is a example for git usage with GitHub, you need learn how to use, and *build your own branch* with your git learning notes from this master. And if there are something new about git and GitHub, you `SHARE IT` by commit and push your branch**
+
 **Recommend to Use [Atom](https://atom.io/) eiditor , it has a good git&github plugin and well supoort markdown and program languages**
 
 **Before do this you need generate you 'ssh key' and add to your github account**
